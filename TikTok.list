@@ -1,7 +1,6 @@
 # 内容：TikTok
 # 数量：14条
   - USER-AGENT,TikTok*,TikTok
-
   # TikTok 相关的域名规则
   - DOMAIN-KEYWORD,tiktokcdn,TikTok
   - DOMAIN-SUFFIX,tiktok.com,TikTok
